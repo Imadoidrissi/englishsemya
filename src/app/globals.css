@@ -806,10 +806,6 @@ footer > p {
     display: none;
   }
 
-  /* Smaller logo on phones */
-  .logo img {
-    width: 125px;
-  }
 
   .hero {
     padding: 45px 0 65px;
