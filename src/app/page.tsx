@@ -349,22 +349,29 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="ctaActions">
-          <a
-            className="btn light"
-            href="mailto:hello@englishsemya.com"
-          >
-            Email us ↗
-          </a>
 
-          <a
-            href="https://wa.me/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            WhatsApp us ↗
-          </a>
-        </div>
+      <div className="ctaActions">
+        <a className="btn light" href="mailto:hello@englishsemya.com">
+          Gmail ↗
+        </a>
+
+        <a
+        href="https://wa.me/YOUR_NUMBER"
+        target="_blank"
+        rel="noreferrer"
+        >
+         WhatsApp ↗
+        </a>
+
+        <a
+        href="https://t.me/YOUR_USERNAME"
+        target="_blank"
+        rel="noreferrer"
+        >
+          Telegram ↗
+        </a>
+      </div>
+        
       </section>
 
       <footer>
