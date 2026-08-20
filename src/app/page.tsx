@@ -23,7 +23,7 @@ export default function Home(){
  return <main>
   <header className="nav">
    <a className="logo" href="#">
-     <img src="/logo.svg" alt="EnglishSemya" />
+     <img src="/logo.png" alt="EnglishSemya" />
    </a>
    <nav><a href="#courses">Courses</a><a href="#about">About</a><a href="#how">How it works</a><a href="#faq">FAQ</a></nav>
    <a className="btn small" href="#contact">Book a trial ↗</a>
@@ -69,7 +69,7 @@ export default function Home(){
 
   <div>
     <a className="logo" href="#">
-      <img src="/logo.svg" alt="EnglishSemya" />
+      <img src="/logo.png" alt="EnglishSemya" />
     </a>
     <p>Learn English. Join the Family.</p>
   </div>
