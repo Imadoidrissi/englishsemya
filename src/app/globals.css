@@ -61,12 +61,20 @@ footer {
   display: flex;
   align-items: center;
   gap: 10px;
+  font-weight: 700;
+  font-size: 19px;
+  letter-spacing: -0.04em;
 }
 
 .logo img {
-  width: 150px;
-  height: auto;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
   display: block;
+}
+
+.logo > span > span {
+  color: var(--red);
 }
 
 /* NAVIGATION */
