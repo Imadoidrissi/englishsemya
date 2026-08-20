@@ -351,12 +351,12 @@ export default function Home() {
 
 
       <div className="ctaActions">
-        <a className="btn light" href="mailto:hello@englishsemya.com">
+        <a className="btn light" href="mailto:imad2idrissi@gmail.com">
           Gmail ↗
         </a>
 
         <a
-        href="https://wa.me/YOUR_NUMBER"
+        href="https://wa.me/79189545415"
         target="_blank"
         rel="noreferrer"
         >
@@ -364,7 +364,7 @@ export default function Home() {
         </a>
 
         <a
-        href="https://t.me/YOUR_USERNAME"
+        href="https://t.me/Imadovich123"
         target="_blank"
         rel="noreferrer"
         >
