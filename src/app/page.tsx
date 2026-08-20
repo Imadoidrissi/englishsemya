@@ -68,6 +68,9 @@ export default function Home() {
       <header className="nav">
         <a className="logo" href="#">
           <img src="/logo.png" alt="EnglishSemya" />
+          <span>
+           English<span>Semya</span>
+          </span>
         </a>
 
         <nav>
@@ -368,6 +371,9 @@ export default function Home() {
         <div>
           <a className="logo" href="#">
             <img src="/logo.png" alt="EnglishSemya" />
+            <span>
+             English<span>Semya</span>
+            </span>
           </a>
 
           <p>Learn English. Join the Family.</p>
