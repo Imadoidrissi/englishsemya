@@ -22,7 +22,9 @@ export default function Home(){
  const [faq,setFaq]=useState<number|null>(null);
  return <main>
   <header className="nav">
-   <a className="logo" href="#"><span className="logoMark">E</span><span>English<span>Semya</span></span></a>
+   <a className="logo" href="#">
+     <img src="/logo.svg" alt="EnglishSemya" />
+   </a>
    <nav><a href="#courses">Courses</a><a href="#about">About</a><a href="#how">How it works</a><a href="#faq">FAQ</a></nav>
    <a className="btn small" href="#contact">Book a trial ↗</a>
   </header>
@@ -65,6 +67,21 @@ export default function Home(){
 
   <section id="contact" className="cta section"><div><p className="eyebrow">READY WHEN YOU ARE</p><h2>Let’s make English<br/><em>part of your world.</em></h2><p>Tell us what you want to improve and we’ll help you find the right way to start.</p></div><div className="ctaActions"><a className="btn light" href="mailto:hello@englishsemya.com">Email us ↗</a><a href="https://wa.me/" target="_blank" rel="noreferrer">WhatsApp us ↗</a></div></section>
 
-  <footer><div><a className="logo" href="#"><span className="logoMark">E</span><span>English<span>Semya</span></span></a><p>Learn English. Join the Family.</p></div><div className="footerLinks"><a href="#courses">Courses</a><a href="#about">About</a><a href="#faq">FAQ</a><a href="#contact">Contact</a></div><p>© {new Date().getFullYear()} EnglishSemya.</p></footer>
+  <div>
+    <a className="logo" href="#">
+      <img src="/logo.svg" alt="EnglishSemya" />
+    </a>
+    <p>Learn English. Join the Family.</p>
+  </div>
+
+  <div className="footerLinks">
+    <a href="#courses">Courses</a>
+    <a href="#about">About</a>
+    <a href="#faq">FAQ</a>
+    <a href="#contact">Contact</a>
+  </div>
+
+  <p>© {new Date().getFullYear()} EnglishSemya.</p>
+</footer>
  </main>
 }
