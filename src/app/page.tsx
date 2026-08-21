@@ -166,8 +166,6 @@ export default function Home() {
         <span>CONNECT</span>
         ✦
         <span>GROW</span>
-        ✦
-        <span>LEARN</span>
       </div>
 
       <section id="courses" className="section">
