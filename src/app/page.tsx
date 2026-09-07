@@ -349,7 +349,7 @@ export default function Home() {
 
 
       <div className="ctaActions">
-        <a className="btn light" href="mailto:imad2idrissi@gmail.com">
+        <a className="btn light" href="mailto:englishsemya@gmail.com">
           Gmail ↗
         </a>
 
