@@ -382,6 +382,15 @@ export default function Home() {
           </a>
 
           <p>Learn English. Join the Family.</p>
+          
+          <p className="legalInfo">
+            ИП Идрисси Имад
+            <br />
+            ИНН: 230914612699
+            <br />
+            ОГРНИП: 326237500157325
+          </p>
+          
         </div>
 
         <div className="footerLinks">
