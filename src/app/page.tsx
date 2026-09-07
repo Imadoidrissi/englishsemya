@@ -399,6 +399,7 @@ export default function Home() {
           <a href="#faq">FAQ</a>
           <a href="#contact">Contact</a>
           <a href="/privacy-policy">Privacy Policy</a>
+          <a href="/offer">Public Offer</a>
         </div>
 
         <p>© {new Date().getFullYear()} EnglishSemya.</p>
