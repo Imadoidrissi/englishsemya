@@ -515,8 +515,8 @@ export default function OfferPage() {
           </p>
 
           <p>
-            <a href="mailto:imad2idrissi@gmail.com">
-              imad2idrissi@gmail.com
+            <a href="mailto:englishsemya@gmail.com">
+              englishsemya@gmail.com
             </a>
           </p>
 
@@ -542,8 +542,8 @@ export default function OfferPage() {
             ОГРНИП: 326237500157325
             <br />
             Электронная почта:{" "}
-            <a href="mailto:imad2idrissi@gmail.com">
-              imad2idrissi@gmail.com
+            <a href="mailto:englishsemya@gmail.com">
+              englishsemya@gmail.com
             </a>
             <br />
             Сайт:{" "}
